@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * print_binary - A function to print an unsigned int in binary format
+ * print_binary - A function that0 prints an unsigned int in binary format
  * @n: The unsigned integer to be printed
  *
  * Return: The number of characters printed
