@@ -1,10 +1,12 @@
+#ifndef MAIN_H
+#define MAIN_H
 
-
-#ifndef _PRINTF_
-#define _PRINTF_
+#include <stdarg.h>
 
 int _putchar(char c);
 int _printf(const char *format, ...);
 int print_binary(unsigned int n);
+int print_integer(int n);
 
-#endif
+#endif /* MAIN_H */
+
